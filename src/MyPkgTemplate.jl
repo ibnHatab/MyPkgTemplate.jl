@@ -1,5 +1,8 @@
 module MyPkgTemplate
 
-# Write your package code here.
+using VegaLite
+
+export sum_values
+include("graph_functions.jl")
 
 end
