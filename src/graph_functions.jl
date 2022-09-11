@@ -1,5 +1,4 @@
 
-using VegaLite
 
 """
     sum_values(x, y)
